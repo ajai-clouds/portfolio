@@ -13,6 +13,7 @@ function Home() {
           I'm a passionate web developer with experience in creating dynamic and responsive websites.
         </p>
         <p>i will do my best to help you achieve your goals.</p>
+        <p> not hire </p>
 
         <div className="social-icons">
           <a href="https://www.linkedin.com/in/ajai-s-8a5072403" target="_blank" rel="noopener noreferrer">
