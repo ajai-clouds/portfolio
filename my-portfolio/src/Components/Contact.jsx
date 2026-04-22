@@ -9,7 +9,7 @@ function Contact() {
           <h3>Get in Touch</h3>
           <p>If you have any project or job opportunity, feel free to contact me.</p>
 
-          <p><strong>Name:</strong> Ajai</p>
+          <p><strong>Name:</strong> Ajai S</p>
           <p><strong>Email:</strong> ajai16745@gmail.com</p>
           <p><strong>Phone:</strong> +91 9500522434</p>
           <p><strong>Location:</strong> Salem, Tamil Nadu</p>
