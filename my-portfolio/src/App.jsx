@@ -1,8 +1,8 @@
-import Header from "./components/Header";
-import Home from "./components/Home";
-import About from "./components/About";
-import Skills from "./components/Skills";
-import Contact from "./components/Contact";
+import Header from "./components/Header.jsx";
+import Home from "./components/Home.jsx";
+import About from "./components/About.jsx";
+import Skills from "./components/Skills.jsx";
+import Contact from "./components/Contact.jsx";
 import "./App.css";
 
 function App() {
